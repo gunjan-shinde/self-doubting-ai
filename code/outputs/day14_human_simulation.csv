@@ -1,0 +1,3 @@
+Method,Accuracy,Doubt Rate
+Model Only,52.28333333333334,0.0
+Model + Human,100.0,47.71666666666667

@@ -1,0 +1,18 @@
+{
+  "test_accuracies": [
+    66.17,
+    72.53,
+    74.79,
+    75.79,
+    75.83,
+    75.25,
+    74.75,
+    74.6,
+    75.05,
+    75.31
+  ],
+  "final_accuracy": 75.31,
+  "doubt_aware_accuracy": 79.10694597574421,
+  "doubt_rate_percent": 9.3,
+  "threshold": 0.7
+}

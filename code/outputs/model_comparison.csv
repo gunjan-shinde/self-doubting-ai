@@ -1,0 +1,3 @@
+Model,Accuracy (Clean %),Doubt Rate (Clean %),Avg Confidence (Clean),Accuracy (Noisy %),Doubt Rate (Noisy %),Avg Confidence (Noisy)
+SimpleCNN,100.0,49.291666666666664,0.9977635845641295,100.0,99.85833333333333,0.9556483992189169
+TinyCNN,0.0,100.0,0.11028517581212025,0.0,100.0,0.10886437673990926
